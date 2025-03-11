@@ -39,5 +39,5 @@ This application enables users to assess eligibility for a visa type by uploadin
 
 ## Documentation
 
-- [Design Notes](design_notes.md): Reasoning for the design choices made in this project.
-- [Understanding the Output](evaluation.md): Interpreting the output of the application.
+- Design Notes: Reasoning for the design choices made in this project.
+- Understanding the Output: Interpreting the output of the application.
