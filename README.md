@@ -30,7 +30,7 @@ This application enables users to assess eligibility for a visa type by uploadin
 
 5. **Run the application**:
 
-    This will start the application through [this link](http://127.0.0.1:8000/docs#/default/assess_cv_assess_post) after following the above steps. 
+    Start the application through [this link](http://127.0.0.1:8000/docs#/default/assess_cv_assess_post) after following the above steps. 
 
 ## API Endpoints
 
